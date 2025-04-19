@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# Hotel Booking Status Predictor
 
-Description of the app ...
+Predict if a hotel booking will be canceled or not
 
 ## Demo App
 
