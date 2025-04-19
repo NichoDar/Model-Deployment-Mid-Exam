@@ -4,7 +4,7 @@ Predict if a hotel booking will be canceled or not
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://model-deployment-mid-exam-cncexucsb9qnaupadfamno.streamlit.app/)
 
 ## GitHub Codespaces
 
